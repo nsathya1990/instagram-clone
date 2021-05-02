@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Dependencies
+
+### date-fns
+
+-   It provides the most comprehensive, yet simple and consistent toolset for manipulating JavaScript dates in a browser & Node.js
+-   https://www.npmjs.com/package/date-fns
+
+### firebase
+
+-   A platform developed by Google for creating mobile and web applications.
+-   https://www.npmjs.com/package/firebase
+
+### react-loading-skeleton
+
+-   To make beautiful, animated loading skeletons that automatically adapt to your app.
+-   https://www.npmjs.com/package/react-loading-skeleton
