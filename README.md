@@ -79,9 +79,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### firebase
 
 -   A platform developed by Google for creating mobile and web applications.
+-   We use Firebase-based authentication
 -   https://www.npmjs.com/package/firebase
 
 ### react-loading-skeleton
 
 -   To make beautiful, animated loading skeletons that automatically adapt to your app.
 -   https://www.npmjs.com/package/react-loading-skeleton
+
+# Reference
+
+-   https://www.youtube.com/watch?v=mDgEqoQUBgk
+-   Karl Hadwen
