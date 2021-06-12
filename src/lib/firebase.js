@@ -3,6 +3,7 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 /** Here I want to import the Seed File */
+/* import { seedDatabase } from '../seed'; */
 
 const config = {
     apiKey: 'AIzaSyCwbRqZDnqc6Vgcdmlu_fEJIdc3nd4g7gE',
